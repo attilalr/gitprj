@@ -10,3 +10,5 @@ O sistema de versionamento de projetos de geoestatística é um conjunto de scri
 Papéis no sistema:
 * Gerente: administram o repositório, marcam versões, criam branches e podem fazer rollbacks;
 * Usuários-padrão: fazem commits para branches permitidos pelo gerente.
+
+Trabalho publicado: https://www.researchgate.net/publication/333828369_Version_control_system_applied_to_resource_modeling_projects
